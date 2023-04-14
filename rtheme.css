@@ -27,8 +27,8 @@
     --menu-border-color: rgba(255,255,255,0.1);
     --menu-text-color: #b2b2b2;
     --input-color: #000000;
-    --input-text-color: #ffffff;
-    --input-placeholder-color: #444;
+    --input-text-color: #333;
+    --input-placeholder-color: #ffffff;
     --input-radius: 22px;
     --select-input-color: #363636;
     --button-background: rgba(0,0,0,0.7);
