@@ -3617,3 +3617,11 @@
     background-color: var(--sidebar-color) !important;
     z-index: 2 !important;
   }
+
+  .modeSelected-3DmyhH .content-1gYQeQ, .modeSelected-3DmyhH:hover .content-1gYQeQ{ 
+    background: linear-gradient(90deg, rgb(0, 255, 55) 0%, rgba(9, 73, 0, 0.973) 54%, rgba(0, 0, 0, 0.658) 100%);
+    transform:scale(1.02);
+    border-radius:8px;
+    margin-left:4px;
+    margin-right:3px;
+}
