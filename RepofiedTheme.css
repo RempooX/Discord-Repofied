@@ -56,8 +56,8 @@
     --scrollbar-thumb-hover: rgba(255,255,255,0.45);
     --scrollbar-thumb-active: rgba(255,255,255,0.55);
     --window-button: #181818;
-    --window-button-hover: #535353;
-    --window-button-close: #ffffff;
+    --window-button-hover: #00ff00;
+    --window-button-close: #000000;
   }
   
   /*
